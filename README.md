@@ -10,7 +10,7 @@ The Bloomreach Feed Validator is a Java program designed to verify the correctne
 Before you begin, make sure you have the following:
 
 - Java Runtime Environment (JRE) installed on your computer.
-- The jsonLineAnalyzer-all-1.0-SNAPSHOT.jar file, which you can download from this link.
+- The jsonLineAnalyzer-all-1.0-SNAPSHOT.jar file, which you can download from above.
 
 ### Installation
 
