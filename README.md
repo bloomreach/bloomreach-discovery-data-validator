@@ -36,6 +36,7 @@ The Bloomreach Feed Validator provides a simple user interface (UI) to validate 
 
 - Launch the Bloomreach Feed Validator using the command provided in the previous section.
 - In the UI, you will see the following options:
+
 | Parameter | Description                       |
 | :-------- | :-------------------------------- |
 | File Name      |  **Required**. Enter the name or choose your JSONLines feed file. |
