@@ -46,6 +46,10 @@ The Bloomreach Feed Validator provides a simple user interface (UI) to validate 
 - Once you've filled in all the required fields, click on the "Validate DC Feed" button to start the validation process.
 - If you chose "Yes" for pausing at each line, you will need to click on the "Continue" button to review each line individually. You can also click on "Nomore Pausing" to skip pausing for the remaining lines.
 
+![SNAPSHOT](https://github.com/bloomreach/bloomreach-discovery-data-validator/blob/data-validator-v1/screenshots/ss1.png)
+
+![SNAPSHOT](https://github.com/bloomreach/bloomreach-discovery-data-validator/blob/data-validator-v1/screenshots/ss2.png)
+
 
 ## Viewing Validation Results
 
