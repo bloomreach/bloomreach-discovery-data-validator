@@ -3,7 +3,7 @@
 
 ## Introduction
 
-The Bloomreach Feed Validator is a Java program designed to verify the correctness of a JSONLines feed file. This guide will walk you through the steps to run the program successfully.
+The Bloomreach Data Validator is a Java program designed to verify the correctness of a JSONLines feed file. This guide will walk you through the steps to run the program successfully.
 
 ### Prerequisites
 
@@ -26,15 +26,15 @@ To execute the Bloomreach Data Validator, follow these steps:
 ```
 cd <PATH>
 ```
-- Run the Bloomreach Feed Validator by executing the following command:
+- Run the Bloomreach Data Validator by executing the following command:
 ```
 java -jar jsonLineAnalyzer-all-1.0-SNAPSHOT.jar jsonLineAnalyzer
 ```
 
-## Using the Bloomreach Feed Validator UI
-The Bloomreach Feed Validator provides a simple user interface (UI) to validate your JSONLines feed file. Follow these steps to use the UI:
+## Using the Bloomreach Data Validator UI
+The Bloomreach Data Validator provides a simple user interface (UI) to validate your JSONLines feed file. Follow these steps to use the UI:
 
-- Launch the Bloomreach Feed Validator using the command provided in the previous section.
+- Launch the Bloomreach Data Validator using the command provided in the previous section.
 - In the UI, you will see the following options:
 
 | Parameter | Description                       |
@@ -44,7 +44,7 @@ The Bloomreach Feed Validator provides a simple user interface (UI) to validate 
 | No. of JSONLines to Scan   |  **Required**. Enter the number of lines you want to scan.. |
 | Pause at Each Line   |  **Required**. Select "Yes" if you want to pause and review each line during validation. Otherwise, select "No" to skip pausing. |
 
-- Once you've filled in all the required fields, click on the "Validate DC Feed" button to start the validation process.
+- Once you've filled in all the required fields, click on the "Validate Data" button to start the validation process.
 - If you chose "Yes" for pausing at each line, you will need to click on the "Continue" button to review each line individually. You can also click on "Nomore Pausing" to skip pausing for the remaining lines.
 
 ![SNAPSHOT](https://github.com/bloomreach/bloomreach-discovery-data-validator/blob/data-validator-v1/screenshots/ss1.png)
@@ -54,7 +54,7 @@ The Bloomreach Feed Validator provides a simple user interface (UI) to validate 
 
 ## Viewing Validation Results
 
-After clicking "Validate DC Feed," you will see the validation details for each JSON line. These details include information about each line's validation status.
+After clicking "Validate Data", you will see the validation details for each JSON line. These details include information about each line's validation status.
 
 When the validation is complete, you will find the following output files:
 
