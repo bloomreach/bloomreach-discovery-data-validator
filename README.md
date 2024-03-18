@@ -32,7 +32,7 @@ java -jar jsonLineAnalyzer-all-1.0-SNAPSHOT.jar jsonLineAnalyzer
 ```
 
 ## Using the Bloomreach Data Validator UI
-The Bloomreach Data Validator provides a simple user interface (UI) to validate the syntax and structure JSONLines feed file. Follow these steps to use the UI:
+The Bloomreach Data Validator provides a simple user interface (UI) to validate the syntax and structure of JSONLines feed file. Follow these steps to use the UI:
 
 - Launch the Bloomreach Data Validator using the command provided in the previous section.
 - In the UI, you will see the following options:
